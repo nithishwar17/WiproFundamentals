@@ -5,7 +5,7 @@ public class Samelastdigit {
 	{
 		Scanner scanner = new Scanner(System.in);
 		int num1 = scanner.nextInt();
-		int num2 = scanner.nextInt();
+		int num2 = scanner.nextInt():
 		if(num1%10 == num2%10)
 			System.out.println("True");
 		else
